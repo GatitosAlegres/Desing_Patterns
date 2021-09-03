@@ -1,2 +1,2 @@
-# Patrones-de-Dise-o
+# Patrones de Diseño
 Singleton, Faccade, Interpreter, Strategy
